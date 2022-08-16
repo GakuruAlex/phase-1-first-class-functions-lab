@@ -35,10 +35,12 @@ Using the tests to guide you, create the following deliverables:
   ride accordingly. For example, if `createFareMultiplier()` receives an argument
   of `4`, it will return a function that takes in a fare as an argument and
   quadruples the fare.
+
 - `fareDoubler()` — Declare a variable with `const` and assign a function
   returned by `createFareMultiplier()` to it. Invoke `createFareMultiplier()` in
   such a way that the new `fareDoubler()` function accepts a fare as its lone
   argument and doubles it.
+
 - `fareTripler()` — Declare a variable with `const` and assign a function
   returned by `createFareMultiplier()` to it. Invoke `createFareMultiplier()` in
   such a way that the new `fareTripler()` function accepts a fare as its lone
